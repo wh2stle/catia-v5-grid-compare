@@ -1,0 +1,11 @@
+CATIA V5 Grid Compare
+Version: 0.9.0 engineering beta
+Target: CATIA V5 build 27, 64-bit Windows, CATVBA
+Default grid: 50 x 50 x 50
+Default bounding margin: 5% per side per axis
+DMU dependency: none
+Geometry automation: Part Design plus Generative Shape Design extrema/construction
+
+This package has been source-reviewed and statically checked outside CATIA.
+Compile and execute the validation checklist in the target V5R27 installation
+before production use.

@@ -1,0 +1,18 @@
+Import these files into one CATVBA project, then run Debug > Compile:
+
+01  M_Types.bas
+02  M_Config.bas
+03  M_Utilities.bas
+04  M_IO_Products.bas
+05  M_CopyFlatten.bas
+06  M_Bounds.bas
+07  M_SolidGeometry.bas
+08  M_BooleanDifference.bas
+09  M_GridScan.bas
+10  M_OutputGeometry.bas
+11  M_ViewsCamera.bas
+12  M_Report.bas
+13  M_Main.bas
+
+Run macro: M_Main.CATMain
+
